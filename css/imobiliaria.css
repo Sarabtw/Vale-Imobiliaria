@@ -4,7 +4,7 @@
     color: green; 
     font-weight: arial; 
     font-size: 1.3rem; 
-    background-color: beige;
+    background-color: blanchedalmond;
     
 }
 .nav-link{
@@ -78,6 +78,12 @@ color: black;
   font-size: 1rem; 
   color: #333; 
 }
+.barra-footer{
+  background-color: blanchedalmond;
+}
 .footer{
-color: beige;
+  background-color: blanchedalmond;
+}
+.col{
+  background-color: blanchedalmond;
 }
