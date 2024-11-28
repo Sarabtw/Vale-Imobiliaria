@@ -66,22 +66,27 @@ color: black;
 }
 
 
-.card-content h3 {
-  margin: 0; 
-  font-size: 1.5rem; 
-  font-weight: bold; 
-}
 
-
-.card-content p {
-  margin: 5px 0 0; 
-  font-size: 1rem; 
-  color: #333; 
-}
 .cor{
   color: grey;
 }
 .fonte{
   font-style: oblique;
   font-weight: bold;
+}
+.casas{
+  width: 300px; 
+  border-radius: 8px; 
+  overflow: hidden; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
+  text-align: left; 
+  background-color: beige; 
+}
+.detalhe{
+  width: 500px; 
+  height: 900px; 
+  overflow: hidden; 
+  box-shadow: 0 4px 6px rgba(241, 239, 239, 0.1); 
+  text-align: left; 
+  background-color: white; 
 }
