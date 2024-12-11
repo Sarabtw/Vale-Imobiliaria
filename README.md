@@ -52,11 +52,7 @@
 
 ## Backlog (Tarefas Futuras)
 
-1. Formulários de Contato:
-
-- Criar e implementar formulários de contato para solicitações de informações sobre imóveis e outros serviços.
-
-2. Sistema de Cadastro de Imóveis:
+1. Sistema de Cadastro de Imóveis:
 
 - Implementar um sistema para que a imobiliária possa adicionar, editar e remover imóveis da plataforma.
 
